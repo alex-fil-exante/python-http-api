@@ -1,1 +1,1 @@
-__version__ = 'REPLACE_ME_FROM_TAG'
+__version__ = '1.0.6'
